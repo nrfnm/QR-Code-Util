@@ -1,0 +1,14 @@
+altgraph==0.17.5
+astroid==4.0.4
+dill==0.4.1
+isort==8.0.1
+macholib==1.16.4
+mccabe==0.7.0
+packaging==26.0
+pillow==12.1.1
+platformdirs==4.9.4
+pyinstaller==6.19.0
+pyinstaller-hooks-contrib==2026.3
+pylint==4.0.5
+qrcode==8.2
+tomlkit==0.14.0
